@@ -205,7 +205,8 @@ main{
     }
     
     header{
-        padding: 0;
+        padding: 1;
+        
     }
     
     main{
@@ -234,5 +235,6 @@ main{
 
     .resultados div > strong{
         font-size: 3rem;
+        padding: 0;
     }
 }
